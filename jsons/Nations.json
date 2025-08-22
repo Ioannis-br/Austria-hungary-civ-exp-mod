@@ -64,9 +64,15 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [0,107,71],
-		"innerColor": [197,216,109],
-		"uniqueName": "Dual Monarchy",
-		"unique": ["Comment [Provides a [Palace] in your first [2] cities for free (Your second city also becomes a capital)]", "Provides a [Palace] in your first [2] cities for free <hidden from users>"],
+		"innerColor": [241,15,31],
+		"uniqueName": "Danubian Monarchy",
+		"uniques": [
+			"Comment [Provides a [Palace] in your first [2] cities for free (Your second city also becomes a capital)]", "Provides a [Palace] in your first [2] cities for free <hidden from users>",
+			"[+1 Production, +1 Culture] from every [Castle]",
+			"[+1 Production, +1 Culture] from every [Arsenal]",
+			"[+1 Production] from [{improved} {River}] tiles [in all cities]",
+			"[Gold] cost of purchasing [Mounted] units [-20]%",
+			"[-25]% constrution time for [All] improvments <in [River] tiles>"],
 		"cities": ["Vienna","Budapest","Salzburg","Debrecen","Trieste","Bratislava","Prague","Laibach","Agram",
 			"Klausenburg","Temesvar","Szeged","Kaschau","Lemberg","Czernowitz","Krakow","Ostrava","Sarajevo","Zara",
 			"Maria-Theresiopel","Ragusa","Miskolc","Trent","Pilsen","Graz","Innsbruck","Linz","Bistrita","Ungvar",
