@@ -13,5 +13,17 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Huszar",
+		"unitType": "Mounted",
+		"uniqueTo": "Austria-Hungary",
+		"replaces": "Cavalry",
+		"movement": 5,
+		"strength": 34,
+		"cost": 700,
+		"requiredTech:" "Military Science",
+		"requiredResource": "Horses",
+		"promotions": "Hussar ability"
 	}
 ]
